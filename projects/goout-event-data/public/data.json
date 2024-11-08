@@ -1,0 +1,85 @@
+[
+  {
+    "id": 1,
+    "name": "Rock for People",
+    "date": "2025-07-01",
+    "subEvents": [
+      {
+        "id": 2,
+        "name": "BMTH",
+        "date": "2024-06-30",
+        "subEvents": []
+      },
+      {
+        "id": 3,
+        "name": "The Offspring",
+        "date": "2025-07-01",
+        "subEvents": [
+          {
+            "id": 9,
+            "name": "Something1",
+            "date": "2025-06-30",
+            "subEvents": [
+              {
+                "id": 10,
+                "name": "Something2",
+                "date": "2025-06-30",
+                "subEvents": []
+              },
+              {
+                "id": 11,
+                "name": "Something3",
+                "date": "2025-06-30",
+                "subEvents": []
+              },
+              {
+                "id": 12,
+                "name": "Something4",
+                "date": "2025-06-30",
+                "subEvents": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Metronome Festival",
+    "date": "2025-06-15",
+    "subEvents": [
+      {
+        "id": 5,
+        "name": "Metronome real one",
+        "date": "2024-05-30",
+        "subEvents": []
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Prague Spring Festival",
+    "date": "2025-05-12",
+    "subEvents": [    
+      {
+      "id": 5,
+      "name": "Prague Spring real one",
+      "date": "2025-05-30",
+      "subEvents": []
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Prague Beer Festival",
+    "date": "2024-05-01",
+    "subEvents": []
+  },
+  {
+    "id": 8,
+    "name": "Past Event",
+    "date": "2023-09-20",
+    "subEvents": []
+  }
+]

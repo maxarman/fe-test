@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Ed Sheeran",
+    "date": "2024-08-28T17:00:00Z",
+    "tickets": [
+      {
+        "ticketId": "a83bx",
+        "name": "General admission",
+        "quantity": 2,
+        "price": 1999,
+        "currency": "CZK"
+      }
+    ]
+  },
+  {
+    "name": "Banksy Exhibition",
+    "date": "2024-11-29T17:00:00Z",
+    "tickets": [
+      {
+        "ticketId": "nmmq3",
+        "name": "General admission",
+        "quantity": 2,
+        "price": 599,
+        "currency": "CZK"
+      },
+      {
+        "ticketId": "b2x9k",
+        "name": "VIP",
+        "quantity": 4,
+        "price": 4099,
+        "currency": "CZK"
+      }
+    ]
+  },
+  {
+    "name": "Beetlejuice Beetlejuice",
+    "date": "2024-12-31T17:00:00Z",
+    "tickets": [
+      {
+        "ticketId": "ze34w",
+        "seatId": "mxje98",
+        "name": "General admission",
+        "quantity": 1,
+        "price": 209,
+        "currency": "CZK"
+      },
+      {
+        "ticketId": "ihh89",
+        "seatId": "glop2",
+        "name": "General admission",
+        "quantity": 1,
+        "price": 209,
+        "currency": "CZK"
+      },
+      {
+        "ticketId": "rw34e",
+        "seatId": "bcxcv",
+        "name": "General admission",
+        "quantity": 1,
+        "price": 319,
+        "currency": "CZK"
+      }
+    ]
+  }
+]
